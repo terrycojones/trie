@@ -1,0 +1,12 @@
+1<A%d%py%gy%pxBCDEF>
+2<B%d%{2}%*%px%gx%pyCDEFG>
+3<C%d%{3}%*%pxDEFGH>
+4<D%d%{4}%*%pyEFGHI>
+-1<Fred is number 1>
+-2<Joe is number 2>
+-3<Add registers a and b to get %ga%gb%+%d>
+-4<Subtract register b from a to get %ga%gb%-%d>
+-5<Add fifteen to register a (%ga%d) to get %ga%{15}%+%d>
+-6<Multiply a (%ga%d) by b (%gb%d) to get %ga%gb%*%d>
+-7<a mod b is %ga%gb%m%d>
+-8<a (%ga%d) integer divided by b (%gb%d) is %ga%gb%/%d>
